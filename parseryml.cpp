@@ -2,6 +2,6 @@
 #include <stdio.h>
 int mail(void)
 {
- printf "hello world!");
+ printf "Hello World!");
  return 0;
 }
